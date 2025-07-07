@@ -12,7 +12,7 @@ However, there is no guarantee that any developments will be reviewed and accept
 
 ## Developer Code of Conduct
 
-The code of conduct for developer interactions can be found here.
+The code of conduct for developer interactions can be found [here](./CODE_OF_CONDUCT.md).
 Please report any unacceptable behavior to `nera-software@anl.gov`.
 
 ## Making Contributions
